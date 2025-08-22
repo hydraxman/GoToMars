@@ -1,0 +1,5 @@
+{
+  "github.copilot.chat.codeGeneration.instructions":[{
+    "text":"Prefer multi-line commands or `;` as the separator (PowerShell 5.1). Avoid `&&` unless you confirm PowerShell 7+ or Bash."
+  }]
+}
