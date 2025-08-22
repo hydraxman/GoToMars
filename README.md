@@ -2,7 +2,7 @@
 
 Plan your trip to Mars.
 
-<img width="578" height="1239" alt="image" src="https://github.com/user-attachments/assets/4f5931a0-753c-470f-b2f6-73086463d513" />
+<img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/4f5931a0-753c-470f-b2f6-73086463d513" />
 
 
 ## Project Structure
