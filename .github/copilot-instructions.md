@@ -1,4 +1,4 @@
-# Copilot Project Guide (Concise)
+# Copilot Project Guide
 
 Purpose: Assist implementation of spec in README.md via tasks in tasks.md. Keep suggestions minimal, atomic, spec-aligned.
 
